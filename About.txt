@@ -1,0 +1,28 @@
+# About
+
+NAME: Ritchey & AI Custom Markup To Markdown
+IMPLEMENTATION: 1
+VERSION: 1
+LONG IDENTIFIER: Ritchey & AI Custom Markup To Markdown i1 v1
+SHORT IDENTIFIER: R&AICMTMi1v1
+AUTHOR: James Daniel Marrs Ritchey
+
+## Overview
+
+Ritchey Custom Markup To Markdown is an EXPERIMENTAL user-defined PHP function, which takes a plain-text file, that is marked with a markup language (the language supported is specific to this tool), and converts it to a Markdown file.
+
+## Licensing
+
+This project is hereby licensed under the Ritchey Permissive License v19.
+
+## History
+
+RELEASES:
+- Project started May 21, 2025.
+- Version 1 completed May 21, 2025.
+
+## Notes
+
+ - This project was developed in part by using the tool ChatGPT Plus, which is an AI tool.
+ - This project seems to be functioning as intended, but has had very limited testing. It is still considered experimental at this stage, so don't be surprised if it doesn't work correctly. You should vet the code before using it!
+ - The purpose of this project was to get practice using AI-based tools, and generate custom example code, which may aid in development of future projects. It is not, and likely will never be a polished work.

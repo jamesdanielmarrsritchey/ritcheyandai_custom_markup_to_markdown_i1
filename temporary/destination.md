@@ -1,0 +1,60 @@
+# Level 1 Heading
+
+This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph. This is a paragraph.
+
+## Level 2 Heading
+
+
+
+This is some more text.
+
+**BLOCKQUOTE EXAMPLE:**
+> Some text.
+> 
+> Some more text.
+
+**BLOCK MESSAGE EXAMPLE:**
+```
+This is a message.
+
+It works the same as a blockquote, but is meant for things that aren't quotes.
+```
+
+### Level 3 Heading
+
+**LABEL 1:**First Last
+**LABEL 2:**1 (111) 111-1111
+**LABEL 3:**yourname@domain
+
+#### Level 4 Heading
+
+**LIST LABEL:**
+- **SUB-LIST LABEL 1:**
+ - This is a sublist entry
+- This is a list entry
+
+##### Level 5 Heading
+
+**PNG IMAGE:**
+![](image_1.png)
+
+**JPEG IMAGE:**
+![](image_1.jpg)
+
+###### Level 6 Heading
+
+This [part](https://example.com/1) is a hyperlink. As is [this part](https://example.com/2). **This text however is bold**. *This text is in italic*. This <u>is some text that is underlined</u>. This ~~text is~~ struck through.
+
+**FLAT-LIST EXAMPLE:**
+|Item 1 | Item 2 | Item 3 | Item 4|
+|---|---|---|---|
+
+
+Below is a horizontal rule.
+---
+
+**TABLE EXAMPLE:**
+|Item 1 | Item 2 | Item 3 | Item 4|
+|---|---|---|---|
+|Item 5 | Item 6 | Item 7 | Item 8|
+|Item 9 | Item 10 | Item 11 | Item 12|
